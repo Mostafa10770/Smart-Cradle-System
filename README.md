@@ -1,22 +1,24 @@
-# Smart Baby Cradle: Revolutionizing Infant Care & Mental Health Monitoring 🍼
+# Smart Cradle: Redefining Infant Care and Well-being 🌟
 
-Welcome to the Smart Baby Cradle project! This innovative IoT-based system combines cutting-edge technology with traditional baby care to ensure your baby's well-being and mental health. Here's what you need to know:
+Welcome to the future of parenting with our cutting-edge Smart Cradle! This revolutionary baby bed takes infant care to a whole new level, seamlessly blending technology with modern parenting practices.
 
-## Features 🌟
-- 🎤 **Audio Sensor:** Detects baby cries in real-time.
-- 💧 **Water Sensor:** Alerts you to urine leakage.
-- 📷 **Integrated Camera:** Offers live video streaming and snapshots.
-- 🌐 **ESP32 Connectivity:** Connects all sensors to the internet.
-- 📱 **Mobile App:** User-friendly interface for monitoring and control.
+## Key Features 🚀
 
-## Mental Health Monitoring 🧠
-Beyond immediate care, our system collects data to predict your baby's behavior and mental health, providing valuable insights into their well-being.
+- 📱 **Mobile App Integration:** Connect to your cradle effortlessly via our user-friendly mobile app.
+- 📷 **Integrated Camera:** Get a real-time view of your baby anytime, anywhere.
+- 🎤 **Microphone Sensor:** Detects your baby's cries, ensuring timely attention.
+- 💧 **Rain Sensor:** Alerts you to urine leakage, simplifying diaper changes.
+- 🕰️ **Customizable Lighting:** Control illumination for a soothing environment.
+- 🚼 **Adaptive Swing Mode:** Machine learning adapts the cradle's swing intensity based on your baby's behavior.
 
+## The Future of Infant Care 🌠
 
-## Contributing 🤝
-We welcome contributions from the community! Feel free to open issues, submit pull requests, or join our discussions.
+We're not stopping here! Our mission is to develop a machine learning model to detect potential indicators of infant mental health issues. Early intervention for conditions like Hypermobility disease is our goal.
 
-## License 📜
-This project is licensed under the [MIT License](LICENSE.md).
+## Join Us on This Journey 🤝
 
-Thank you for choosing Smart Baby Cradle for your infant's care and mental health. Together, we're building a brighter future for our little ones! 👶✨
+As we redefine infant care, we invite you to join us on this exciting journey. Our Smart Cradle is just the beginning, and we're committed to making parenting smarter, safer, and more delightful.
+
+🎥 **[Watch the Smart Cradle in Action](https://shorturl.at/abqBO)**
+
+Experience the future of parenting today with our Smart Cradle! 🍼🌟
