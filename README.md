@@ -19,6 +19,5 @@ We're not stopping here! Our mission is to develop a machine learning model to d
 
 As we redefine infant care, we invite you to join us on this exciting journey. Our Smart Cradle is just the beginning, and we're committed to making parenting smarter, safer, and more delightful.
 
-🎥 **[Watch the Smart Cradle in Action](https://shorturl.at/abqBO)**
 
 Experience the future of parenting today with our Smart Cradle! 🍼🌟
