@@ -1,5 +1,5 @@
 // led 4 v7, rain 34 v0, mic 35 v1
-
+// based on blynk platform. this IOT project aims to help parents monitoring the baby behavior.
 #define BLYNK_TEMPLATE_ID "TMPL2lSpqPBli"
 #define BLYNK_TEMPLATE_NAME "BABY"
 #define BLYNK_AUTH_TOKEN "NHx99pUkNZyDwc6K2OhSSCQaHA3vTea0"
@@ -43,7 +43,7 @@ void setup() {
   timer.setInterval(2000L, rain);
   pinMode(4, OUTPUT);
 }
-
+//run blink and timer
 void loop() {
   Blynk.run();
   timer.run();
